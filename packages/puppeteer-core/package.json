@@ -145,7 +145,7 @@
     "debug": "^4.4.1",
     "devtools-protocol": "0.0.1464554",
     "typed-query-selector": "^2.12.0",
-    "ws": "^8.18.3"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "@types/chrome": "0.1.1",
